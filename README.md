@@ -2,9 +2,9 @@
 ## JavaScript developer
 
 <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/mail-dot-ru.svg" /> E-mail: artem.soroka@hotmail.com  
-<img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> Website: [website] 
+<img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> Website:   
 <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn: [linkedin]   
-<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" /> GitHub: [github]  
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" /> GitHub: https://github.com/nevtemu/  
 
 ## Technical skills
 JavaScript (ES6-ES8), JQuery, regular expressions
