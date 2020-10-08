@@ -40,6 +40,8 @@ WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request
 <img align="left" alt="Babel" width="26px" src="./img/babel.svg" /> 
 </br>
   
+---
+
 ## Soft skills
 
 - Know how to find solutions. Nowadays internet has answers to everything  
