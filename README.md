@@ -11,7 +11,7 @@ JavaScript (ES6-ES8), JQuery, regular expressions
 HTML: Emmet abreviations and custom snippets, form validation, semantic tags  
 CSS: FlexBox, Grid, Float, Absolute. Animation, Responsive design, FontAwesome, SASS  
 Back-end: Node.JS, npm, Express, Heroku  
-Frameworks	 
+Frameworks	  
 Collarboration, Version control: Git, GitHub, GitKraken  
 Webpack, Gulp, Babel  
 MongoDB, SQL and noSQL databases  
