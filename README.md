@@ -21,7 +21,7 @@ CMS Wordpress, Wix
 WebAPI, Postman, REST VSCode extension, AJAX requests, JS Fetch, Twilio  
 WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request  
       
-<div style="display: flex;
+<div class="icons" style="display: flex;
   justify-content: space-between;
   max-width: 400px;
   margin: 0 auto;
