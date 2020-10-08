@@ -26,8 +26,7 @@ WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Page Title</title>
     <style>
-      /* The . with the boxed represents that it is a class */
-      .boxed {
+         .boxed {
         background: lightgrey;
         color: black;
         border: 3px solid black;
