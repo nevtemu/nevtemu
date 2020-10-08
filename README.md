@@ -21,8 +21,8 @@ WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request
 
 ## Soft skills
 
-Know how to find solutions. Nowadays internet has answers to everything  
-Testing code myself. Step-by-step, breakpoints.
+- Know how to find solutions. Nowadays internet has answers to everything  
+- Testing code myself. Step-by-step, breakpoints.
 
 ## Languages
 
@@ -32,6 +32,8 @@ Testing code myself. Step-by-step, breakpoints.
 ![](https://img.shields.io/badge/Arabic-Intermediate-blue?style=flat)  
 
 ## GitHub stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevtemu)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: http://artem-soroka.tk/
 [linkedin]: https://www.linkedin.com/in/artem-soroka/
