@@ -35,6 +35,7 @@ WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request
 <img align="left"alt="Postman" width="26px" src="https://simpleicons.org/icons/postman.svg" />
 <img align="left"alt="Webpack" width="26px" src="https://simpleicons.org/icons/webpack.svg" />
 <img align="left"alt="Gulp" width="26px" src="https://simpleicons.org/icons/gulp.svg" />  
+</br>
   
   
 ## Soft skills
