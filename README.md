@@ -34,6 +34,7 @@ WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request
 ## GitHub stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevtemu)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nevtemu&hide=stars,issues,contribs)
 
 [website]: http://artem-soroka.tk/
 [linkedin]: https://www.linkedin.com/in/artem-soroka/
