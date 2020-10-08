@@ -1,7 +1,3 @@
----
-title: My Readme
-creator: Artem Soroka
----
 <link rel="stylesheet" type="text/css" media="all" href="styles.css" />
 
 # Artem Soroka
