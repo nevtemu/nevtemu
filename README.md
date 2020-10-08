@@ -26,11 +26,10 @@ Testing code myself. Step-by-step, breakpoints.
 
 ## Languages
 
-![](https://img.shields.io/badge/< Ukrainian >-< Native >-informational?style=flat)
-Ukrainian	Native
-Russian	Native
-English 	Proficient
-Arabic 	Intermediate
+![](https://img.shields.io/badge/Ukrainian-Native-blue?style=flat)  
+![](https://img.shields.io/badge/Russian-Native-blue?style=flat)  
+![](https://img.shields.io/badge/English-Proficient-blue?style=flat)  
+![](https://img.shields.io/badge/Arabic-Intermediate-blue?style=flat)  
 
 ## GitHub stats
 
