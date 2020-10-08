@@ -19,27 +19,7 @@ CMS Wordpress, Wix
 WebAPI, Postman, REST VSCode extension, AJAX requests, JS Fetch, Twilio  
 WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request  
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Page Title</title>
-    <style>
-         .boxed {
-        background: lightgrey;
-        color: black;
-        border: 3px solid black;
-        margin: 0px auto;
-        width: 456px;
-        padding: 10px;
-        border-radius: 10px;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="boxed">
-     <img align="left" alt="HTML5" width="26px" src="./img/html5.svg" />
+| <img align="left" alt="HTML5" width="26px" src="./img/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="./img/css3.svg" />
 <img align="left" alt="Sass" width="26px" src="./img/sass.svg" />
 <img align="left" alt="JavaScript" width="26px" src="./img/javascript.svg" />
@@ -54,11 +34,7 @@ WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request
 <img align="left" alt="Postman" width="26px" src="./img/postman.svg" fill="green"/>
 <img align="left" alt="Webpack" width="26px" src="./img/webpack.svg" />
 <img align="left" alt="Gulp" width="26px" src="./img/gulp.svg" />  
-<img align="left" alt="Babel" width="26px" src="./img/babel.svg" /> 
-    </div>
-  </body>
-</html>
-
+<img align="left" alt="Babel" width="26px" src="./img/babel.svg" /> |
 </br>
   
 ## Soft skills
