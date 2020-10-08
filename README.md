@@ -1,16 +1,34 @@
-### Hi there 👋
+### Artem Soroka
+## JavaScript developer
 
-<!--
-**nevtemu/nevtemu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+E-mail
+Website
+LinkedIn
+GitHub
 
-Here are some ideas to get you started:
+## Technical skills
+JavaScript (ES6-ES8), JQuery, regular expressions
+HTML: Emmet abreviations and custom snippets, form validation, semantic tags
+CSS: FlexBox, Grid, Float, Absolute. Animation, Responsive design, FontAwesome, SASS
+Back-end: Node.JS, npm, Express, Heroku 
+Frameworks	
+Collarboration, Version control: Git, GitHub, GitKraken
+Webpack, Gulp, Babel
+MongoDB, SQL and noSQL databases
+CMS Wordpress, Wix 
+WebAPI, Postman, REST VSCode extension, AJAX requests, JS Fetch, Twilio
+WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Soft skills
+
+Know how to find solutions. Nowadays internet has answers to everything
+Testing code myself. Step-by-step, breakpoints.
+
+## Languages
+
+Ukrainian	Native
+Russian	Native
+English 	Proficient
+Arabic 	Intermediate
+
+## 
