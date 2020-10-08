@@ -21,22 +21,21 @@ WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request
   
     
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<div style="background-color: width: 26px; red; mask-image: url(https://simpleicons.org/icons/mongodb.svg);"> </div>    
-<img align="left" alt="MongoDB" width="26px" src="https://simpleicons.org/icons/mongodb.svg" style="color:green; filter: invert(61%) sepia(13%) saturate(1853%) hue-rotate(71deg) brightness(86%) contrast(90%);" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Node.JS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/node-dot-js.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />
+<img align="left" alt="Sass" width="26px" src="https://simpleicons.org/icons/sass.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://simpleicons.org/icons/mongodb.svg"/>
+<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
+<img align="left" alt="Node.JS" width="26px" src="https://simpleicons.org/icons/node-dot-js.svg" />
 <img align="left" alt="Wordpress" width="26px" src="https://simpleicons.org/icons/wordpress.svg" />
 <img align="left" alt="FontAwesome" width="26px" src="https://simpleicons.org/icons/fontawesome.svg" />
 <img align="left" alt="Postman" width="26px" src="https://simpleicons.org/icons/postman.svg" />
 <img align="left" alt="Webpack" width="26px" src="https://simpleicons.org/icons/webpack.svg" />
-<img align="left" alt="Gulp" width="26px" src="https://simpleicons.org/icons/gulp.svg" />
+<img align="left" alt="Gulp" width="26px" src="https://simpleicons.org/icons/gulp.svg" />  
+<span style="mask: url(https://simpleicons.org/icons/mongodb.svg); display: inline-block; width: 70px; height: 70px; background: green; mask-size: cover;"></span>
   
   
 ## Soft skills
