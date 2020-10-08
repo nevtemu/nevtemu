@@ -20,7 +20,7 @@ WebAPI, Postman, REST VSCode extension, AJAX requests, JS Fetch, Twilio
 WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request  
     
 
-<img align="left" style = "display: inline-block; margin-top:5px;" alt="HTML5" width="26px" src="./img/html5.svg" />
+<img align="left" alt="HTML5" width="26px" src="./img/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="./img/css3.svg" />
 <img align="left" alt="Sass" width="26px" src="./img/sass.svg" />
 <img align="left" alt="JavaScript" width="26px" src="./img/javascript.svg" />
@@ -38,8 +38,7 @@ WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request
 <img align="left" alt="Postman" width="26px" src="./img/postman.svg" fill="green"/>
 <img align="left" alt="Webpack" width="26px" src="./img/webpack.svg" />
 <img align="left" alt="Gulp" width="26px" src="./img/gulp.svg" />  
-<img align="left" alt="Babel" width="26px" src="./img/babel.svg" /> {: style="margin-top:16px"}
-![Babel](/img/babel.svg){: width=26px style="float:left; margin:16px"}
+<img align="left" alt="Babel" width="26px" src="./img/babel.svg" style = "margin-top:5px;"/> 
 </br>
   
 ## Soft skills
