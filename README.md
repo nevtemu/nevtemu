@@ -1,10 +1,10 @@
 ### Artem Soroka
 ## JavaScript developer
 
-<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/mail-dot-ru.svg" />E-mail
-<img align="left" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> Website
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/mail-dot-ru.svg" />E-mail
+<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> Website
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />LinkedIn
-<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />GitHub
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />GitHub
 
 ## Technical skills
 JavaScript (ES6-ES8), JQuery, regular expressions
