@@ -19,6 +19,7 @@ CMS Wordpress, Wix
 WebAPI, Postman, REST VSCode extension, AJAX requests, JS Fetch, Twilio  
 WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request  
     
+<div>
 <img align="left" alt="HTML5" width="26px" src="./img/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="./img/css3.svg" />
 <img align="left" alt="Sass" width="26px" src="./img/sass.svg" />
@@ -38,6 +39,7 @@ WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request
 <img align="left" alt="Webpack" width="26px" src="./img/webpack.svg" />
 <img align="left" alt="Gulp" width="26px" src="./img/gulp.svg" />  
 <img align="left" alt="Babel" width="26px" src="./img/babel.svg" /> 
+</div>
 <div style="clear:both;"></div>
 </br>
   
