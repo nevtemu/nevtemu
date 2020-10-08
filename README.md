@@ -21,20 +21,20 @@ WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request
   
     
 
-<img alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />
-<img alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />
-<img alt="Sass" width="26px" src="https://simpleicons.org/icons/sass.svg" />
-<img alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
-<img alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
-<img alt="MongoDB" width="26px" src="https://simpleicons.org/icons/mongodb.svg"/>
-<img alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
-<img alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
-<img alt="Node.JS" width="26px" src="https://simpleicons.org/icons/node-dot-js.svg" />
-<img alt="Wordpress" width="26px" src="https://simpleicons.org/icons/wordpress.svg" />
-<img alt="FontAwesome" width="26px" src="https://simpleicons.org/icons/fontawesome.svg" />
-<img alt="Postman" width="26px" src="https://simpleicons.org/icons/postman.svg" />
-<img alt="Webpack" width="26px" src="https://simpleicons.org/icons/webpack.svg" />
-<img alt="Gulp" width="26px" src="https://simpleicons.org/icons/gulp.svg" />  
+<img align="left" alt="HTML5" width="26px" src="https://simpleicons.org/icons/html5.svg" />
+<img align="left"alt="CSS3" width="26px" src="https://simpleicons.org/icons/css3.svg" />
+<img align="left"alt="Sass" width="26px" src="https://simpleicons.org/icons/sass.svg" />
+<img align="left"alt="JavaScript" width="26px" src="https://simpleicons.org/icons/javascript.svg" />
+<img align="left"alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />
+<img align="left"alt="MongoDB" width="26px" src="https://simpleicons.org/icons/mongodb.svg"/>
+<img align="left"alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />
+<img align="left"alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
+<img align="left"alt="Node.JS" width="26px" src="https://simpleicons.org/icons/node-dot-js.svg" />
+<img align="left"alt="Wordpress" width="26px" src="https://simpleicons.org/icons/wordpress.svg" />
+<img align="left"alt="FontAwesome" width="26px" src="https://simpleicons.org/icons/fontawesome.svg" />
+<img align="left"alt="Postman" width="26px" src="https://simpleicons.org/icons/postman.svg" />
+<img align="left"alt="Webpack" width="26px" src="https://simpleicons.org/icons/webpack.svg" />
+<img align="left"alt="Gulp" width="26px" src="https://simpleicons.org/icons/gulp.svg" />  
   
   
 ## Soft skills
