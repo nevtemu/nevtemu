@@ -38,7 +38,7 @@ WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request
 <img align="left" alt="Postman" width="26px" src="./img/postman.svg" fill="green"/>
 <img align="left" alt="Webpack" width="26px" src="./img/webpack.svg" />
 <img align="left" alt="Gulp" width="26px" src="./img/gulp.svg" />  
-<img align="left" alt="Babel" width="26px" src="./img/babel.svg" style = "margin-top:50px;"/> 
+<img align="left" alt="Babel" width="26px" src="./img/babel.svg" /> 
 </br>
   
 ## Soft skills
