@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
-
 # Artem Soroka
 ## JavaScript developer
 
@@ -20,9 +18,9 @@ MongoDB, SQL and noSQL databases
 CMS Wordpress, Wix  
 WebAPI, Postman, REST VSCode extension, AJAX requests, JS Fetch, Twilio  
 WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request  
-      
+    
 <div>
-<img align="left" alt="HTML5" width="26px" src="./img/html5.svg" style="display:block"/>
+<img align="left" alt="HTML5" width="26px" src="./img/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="./img/css3.svg" />
 <img align="left" alt="Sass" width="26px" src="./img/sass.svg" />
 <img align="left" alt="JavaScript" width="26px" src="./img/javascript.svg" />
@@ -44,7 +42,6 @@ WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request
 </div>
 </br>
   
-
 ## Soft skills
 
 - Know how to find solutions. Nowadays internet has answers to everything  
