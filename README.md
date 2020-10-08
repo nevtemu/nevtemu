@@ -19,21 +19,7 @@ CMS Wordpress, Wix
 WebAPI, Postman, REST VSCode extension, AJAX requests, JS Fetch, Twilio  
 WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request  
 
-|<img align="left" alt="HTML5" width="26px" src="./img/html5.svg" />
-<img align="left" alt="CSS3" width="26px" src="./img/css3.svg" />
-<img align="left" alt="Sass" width="26px" src="./img/sass.svg" />
-<img align="left" alt="JavaScript" width="26px" src="./img/javascript.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./img/visualstudiocode.svg" />
-<img align="left" alt="MongoDB" width="26px" src="./img/mongodb.svg"/>
-<img align="left" alt="mySQL" width="26px" src="./img/mysql.svg"/>
-<img align="left" alt="Git" width="26px" src="./img/git.svg" />
-<img align="left" alt="GitHub" width="26px" src="./img/github.svg" />
-<img align="left" alt="Node.JS" width="26px" src="./img/node-dot-js.svg" />
-<img align="left" alt="NPM" width="26px" src="./img/npm.svg" />
-<img align="left" alt="Wordpress" width="26px" src="./img/wordpress.svg" />
-<img align="left" alt="Postman" width="26px" src="./img/postman.svg" fill="green"/>
-<img align="left" alt="Webpack" width="26px" src="./img/webpack.svg" />
-<img align="left" alt="Gulp" width="26px" src="./img/gulp.svg" /><img align="left" alt="Babel" width="26px" src="./img/babel.svg" />|
+|<img align="left" alt="HTML5" width="26px" src="./img/html5.svg" /><img align="left" alt="CSS3" width="26px" src="./img/css3.svg" /><img align="left" alt="Sass" width="26px" src="./img/sass.svg" /><img align="left" alt="JavaScript" width="26px" src="./img/javascript.svg" /><img align="left" alt="Visual Studio Code" width="26px" src="./img/visualstudiocode.svg" /><img align="left" alt="MongoDB" width="26px" src="./img/mongodb.svg"/><img align="left" alt="mySQL" width="26px" src="./img/mysql.svg"/><img align="left" alt="Git" width="26px" src="./img/git.svg" /><img align="left" alt="GitHub" width="26px" src="./img/github.svg" /><img align="left" alt="Node.JS" width="26px" src="./img/node-dot-js.svg" /><img align="left" alt="NPM" width="26px" src="./img/npm.svg" /><img align="left" alt="Wordpress" width="26px" src="./img/wordpress.svg" /><img align="left" alt="Postman" width="26px" src="./img/postman.svg" fill="green"/><img align="left" alt="Webpack" width="26px" src="./img/webpack.svg" /><img align="left" alt="Gulp" width="26px" src="./img/gulp.svg" /><img align="left" alt="Babel" width="26px" src="./img/babel.svg" />|
 |:--|
   
 ## Soft skills
