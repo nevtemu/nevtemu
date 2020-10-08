@@ -28,12 +28,9 @@ WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request
 <img align="left" alt="mySQL" width="26px" src="./img/mysql.svg"/>
 <img align="left" alt="Git" width="26px" src="./img/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="./img/github.svg" />
-<img align="left" alt="GitHub" width="26px" src="./img/gitkraken.svg" />
 <img align="left" alt="Node.JS" width="26px" src="./img/node-dot-js.svg" />
 <img align="left" alt="NPM" width="26px" src="./img/npm.svg" />
-<img align="left" alt="Heroku" width="26px" src="./img/heroku.svg" />
 <img align="left" alt="Wordpress" width="26px" src="./img/wordpress.svg" />
-<img align="left" alt="FontAwesome" width="26px" src="./img/fontawesome.svg" />
 <img align="left" alt="Postman" width="26px" src="./img/postman.svg" fill="green"/>
 <img align="left" alt="Webpack" width="26px" src="./img/webpack.svg" />
 <img align="left" alt="Gulp" width="26px" src="./img/gulp.svg" />  
