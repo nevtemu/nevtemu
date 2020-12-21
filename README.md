@@ -14,7 +14,7 @@ Back-end: Node.JS, npm, Express, Heroku, Netlify
 Frameworks: React	  
 Collarboration, Version control: Git, GitHub, GitKraken  
 Webpack, Gulp, Babel  
-MongoDB, SQL and noSQL databases  
+MongoDB, SQL and noSQL databases, data structures  
 CMS Wordpress, Wix  
 WebAPI, Postman, REST VSCode extension, AJAX requests, JS Fetch, Twilio  
 WebHosting, FTP, WebScraping:	 Cheerio, Puppeteer, Request  
