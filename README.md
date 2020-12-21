@@ -7,11 +7,11 @@
 <img width="22px" src="./img/github.svg" /> GitHub: https://github.com/nevtemu/  
 
 ## Technical skills
-JavaScript (ES6-ES8), JQuery, regular expressions  
+JavaScript: ES6-ES11, JQuery, regular expressions  
 HTML: Emmet abreviations and custom snippets, form validation, semantic tags  
-CSS: FlexBox, Grid, Float, Absolute. Animation, Responsive design, FontAwesome, SASS  
-Back-end: Node.JS, npm, Express, Heroku  
-Frameworks	  
+CSS: FlexBox, Grid, Float, Absolute. Animation, Responsive design, Mobile first, FontAwesome, SASS  
+Back-end: Node.JS, npm, Express, Heroku, Netlify  
+Frameworks: React	  
 Collarboration, Version control: Git, GitHub, GitKraken  
 Webpack, Gulp, Babel  
 MongoDB, SQL and noSQL databases  
