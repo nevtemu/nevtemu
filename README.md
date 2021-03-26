@@ -25,10 +25,11 @@ Markdown files, writing documentation, open source, licenses
   
 ## Soft skills
 
-- Know how to find solutions. Nowadays internet has answers to everything  
-- Testing code myself. Step-by-step, breakpoints.
-- I'm orginized and like clean code (no commented lines, formated lines etc.)
+- Know how to find solutions. Nowadays internet has answers to everything
+- Testing code myself. Step-by-step, breakpoints.   
+- I'm organized and like clean code (no commented lines, formatted lines etc.)
 - New to the field so motivated and crave to write code
+
 
 ## Languages
 
