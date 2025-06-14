@@ -6,15 +6,15 @@
 <img width="22px" src="./img/github.svg" /> GitHub: https://github.com/nevtemu/  
 
 ## Technical skills
-|----------|----------------------|
 | **Frontend** | TypeScript, React, React Native, Expo, HTML, CSS, Tailwind, mobile development, cross-platform, responsive design, FontAwesome, regular expressions, fonts, multilingual localization, themes (light/dark mode) |
+|----------|----------------------|
 | **Backend** | Node.js, Express, SQL (PostgreSQL, MySQL), non-SQL (MongoDB), design, security, analysis, backup, OAuth, APIs |
 | **DevOps** | Web hosting, DNS management, FTP, collaboration and version control (Git), Webpack, Babel, npm, documentation (Markdown, Draw.io) |
 | **Hardware** | Any hardware drivers, WiFi routers, printers, shared storage systems (NAS) |
 | **OS** | Microsoft Windows, Apple systems (iOS, iPadOS, MacOS), install, backup, LAN and VPN, remote access, scripting, command line |
 | **Media** | Video editing (DaVinci Resolve), animations and infographics (DaVinci Fusion), media conversion, SVG animations and transformations, Inkscape |
 | **Platforms/Suites** | Microsoft 365 (Excel scripting, PowerPoint, Teams), Microsoft Power Platform (SharePoint, PowerApp, PowerAutomate, PowerBI), Adobe Creative Cloud, Google Workspace |
-| **AI/Data Science** | Claude, ChatGPT, Copilot, Python scripting, PowerQuery |  
+| **AI/Data Science** | Claude, ChatGPT, Copilot, Python scripting, PowerQuery |
      
   
 ## Soft skills
