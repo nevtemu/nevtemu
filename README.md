@@ -6,8 +6,9 @@
 <img width="22px" src="./img/github.svg" /> GitHub: https://github.com/nevtemu/  
 
 ## Technical skills
-| **Frontend** | TypeScript, React, React Native, Expo, HTML, CSS, Tailwind, mobile development, cross-platform, responsive design, FontAwesome, regular expressions, fonts, multilingual localization, themes (light/dark mode) |
+| Category | Technologies & Skills |
 |----------|----------------------|
+| **Frontend** | TypeScript, React, React Native, Expo, HTML, CSS, Tailwind, mobile development, cross-platform, responsive design, FontAwesome, regular expressions, fonts, multilingual localization, themes (light/dark mode) |
 | **Backend** | Node.js, Express, SQL (PostgreSQL, MySQL), non-SQL (MongoDB), design, security, analysis, backup, OAuth, APIs |
 | **DevOps** | Web hosting, DNS management, FTP, collaboration and version control (Git), Webpack, Babel, npm, documentation (Markdown, Draw.io) |
 | **Hardware** | Any hardware drivers, WiFi routers, printers, shared storage systems (NAS) |
@@ -18,14 +19,12 @@
      
   
 ## Soft skills
-
-- ***Team player, interpersonal skills***. Worked in multicultural company with more than 120 nationalities and every day with new colleagues (crew teams were changing every flight). Leant to understand cultural differences. For last 16 years worked in customer service field. Received multiple awards, customers’ and colleagues’ compliments.
-- ***Reliable***. I had seven consecutive years of perfect attendance (no sickness, no absent, no late) with Emirates Airline. I’ve never avoid working. Loyal employee.
-- ***Analytical ability, decision-making***. Reached senior positions at previous jobs. Worked unsupervised as remote workforce on aircraft. Know how to find solutions. Step-by-step testing code myself.
-- ***Attentive to details, organized***. I like automation: from creating mail handling rules, to writing reusable scripts and code snippets. Timely submitted reports about in-flight incidents after landing at previous work. Break job into smaller tasks and organise them in order of priority.
-- ***Eager to learn***. Visited multiple workshops and qualification programs at all my past jobs. New to the field, so motivated and crave to write code.
-- ***Task focused, meeting deadlines***. Achieved two all times record duty free sales on board. Sometimes worked under time pressure on short flights, and still completed services
-
+| Soft Skills | Description |
+|-------------|-------------|
+| **Team player** | Worked in a multicultural company (120 nationalities), new teams every day, understand cultural differences, involved the team in the decision-making, can easily start conversation with stranger |
+| **Organized, reliable** | Big fun of automatization, meet deadlines/targets (twice record duty free sale), seven consecutive years of perfect attendance (no sickness, no late), received 5 Najm awards (Emirates corporate award) |
+| **Empathetic, social** | 20+ years expertise in customer service; worked with VIP, CIP, diplomats, and royal families and celebrities; ensured customer comfort and confidentiality; participated in volunteer programs SAT and Peer Support (emotional support) |
+| **Eager to learn** | Reached supervisor positions, led team independently as remote workforce (on the airplane at 40,000 feet), love to learn (new software tools, Arabic language), analysed large data sets (duty free targets, service scenarios) and found errors |
 
 ## Languages
 
