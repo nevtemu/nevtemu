@@ -2,28 +2,19 @@
 ## Full stack JavaScript developer
 
 <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/mail-dot-ru.svg" /> E-mail: artem.soroka@hotmail.com  
-[//]: # (<img width="22px" src="./img/Crystal_Clear_app_package_network-vector.svg" /> Website: http://artem-soroka.tk/)
 <img width="22px" src="./img/linkedin.svg" /> LinkedIn: https://www.linkedin.com/in/artem-soroka/   
 <img width="22px" src="./img/github.svg" /> GitHub: https://github.com/nevtemu/  
 
 ## Technical skills
-<img align="left" alt="JavaScript" width="26px" src="./img/javascript.svg" />  JavaScript, RegExp      
-     
-<img align="left" alt="HTML5" width="26px" src="./img/html5.svg" />  HTML, Emmet, form validation, semantic tags, SVG     
-     
-<img align="left" alt="CSS3" width="26px" src="./img/css3.svg" /> CSS, Responsive design, FontAwesome, SASS, Tailwind     
-     
-<img align="left" alt="Node.JS" width="26px" src="./img/node-dot-js.svg" />  Node.JS, Express     
-     
-<img align="left" alt="React" width="26px" src="./img/react.svg" />  React, router, Redux     
-     
-<img align="left" alt="Git" width="26px" src="./img/git.svg" />  Git, Markdown files, Webpack     
-     
-<img align="left" alt="MongoDB" width="26px" src="./img/mongodb.svg"/> MongoDB, SQL     
-     
-<img align="left" alt="WebAPI" width="26px" src="./img/webhooks.svg"/>  WebAPI, Webhooks, WebScraping    
-     
-<img align="left" alt="WebHosting" width="26px" src="./img/1538295599.svg"/>  WebHosting, FTP      
+|----------|----------------------|
+| **Frontend** | TypeScript, React, React Native, Expo, HTML, CSS, Tailwind, mobile development, cross-platform, responsive design, FontAwesome, regular expressions, fonts, multilingual localization, themes (light/dark mode) |
+| **Backend** | Node.js, Express, SQL (PostgreSQL, MySQL), non-SQL (MongoDB), design, security, analysis, backup, OAuth, APIs |
+| **DevOps** | Web hosting, DNS management, FTP, collaboration and version control (Git), Webpack, Babel, npm, documentation (Markdown, Draw.io) |
+| **Hardware** | Any hardware drivers, WiFi routers, printers, shared storage systems (NAS) |
+| **OS** | Microsoft Windows, Apple systems (iOS, iPadOS, MacOS), install, backup, LAN and VPN, remote access, scripting, command line |
+| **Media** | Video editing (DaVinci Resolve), animations and infographics (DaVinci Fusion), media conversion, SVG animations and transformations, Inkscape |
+| **Platforms/Suites** | Microsoft 365 (Excel scripting, PowerPoint, Teams), Microsoft Power Platform (SharePoint, PowerApp, PowerAutomate, PowerBI), Adobe Creative Cloud, Google Workspace |
+| **AI/Data Science** | Claude, ChatGPT, Copilot, Python scripting, PowerQuery |  
      
   
 ## Soft skills
@@ -48,7 +39,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevtemu)](https://github.com/anuraghazra/github-readme-stats)  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nevtemu&hide=stars,issues,contribs)
 
-[website]: http://artem-soroka.tk/
 [linkedin]: https://www.linkedin.com/in/artem-soroka/
 [github]: https://github.com/nevtemu/
 
