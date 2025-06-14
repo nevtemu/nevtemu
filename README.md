@@ -1,8 +1,8 @@
 # Artem Soroka
-## JavaScript developer
+## Full stack JavaScript developer
 
 <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/mail-dot-ru.svg" /> E-mail: artem.soroka@hotmail.com  
-<img width="22px" src="./img/Crystal_Clear_app_package_network-vector.svg" /> Website: http://artem-soroka.tk/  
+[//]: # (<img width="22px" src="./img/Crystal_Clear_app_package_network-vector.svg" /> Website: http://artem-soroka.tk/)
 <img width="22px" src="./img/linkedin.svg" /> LinkedIn: https://www.linkedin.com/in/artem-soroka/   
 <img width="22px" src="./img/github.svg" /> GitHub: https://github.com/nevtemu/  
 
