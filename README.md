@@ -27,8 +27,8 @@ In coding, I love finding practical applications and writing elegant solutions. 
 
 ### Languages
 
-![Ukrainian](https://badgen.net/badge/🇺🇦%20Ukrainian/Native/667?labelColor=grey) ![Russian](https://badgen.net/badge/🇷🇺%20Russian/Native/667?labelColor=grey) ![English](https://badgen.net/badge/🇬🇧%20English/Proficient/667?labelColor=grey) ![Arabic](https://badgen.net/badge/🇦🇪%20Arabic/Intermediate/667?labelColor=grey)
+![Ukrainian](https://badgen.net/badge/🇺🇦%20Ukrainian/Native/006400?labelColor=grey) ![Russian](https://badgen.net/badge/🇷🇺%20Russian/Native/006400?labelColor=grey) ![English](https://badgen.net/badge/🇬🇧%20English/Proficient/006400?labelColor=grey) ![Arabic](https://badgen.net/badge/🇦🇪%20Arabic/Intermediate/006400?labelColor=grey)
 
 ## 📬 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-artem.soroka%40hotmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:artem.soroka@hotmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-artem--soroka-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-soroka/)
+[![✉️ Email](https://badgen.net/badge/Email/artem.soroka%40hotmail.com/blue?icon=mail)](mailto:artem.soroka@hotmail.com) [![LinkedIn](https://badgen.net/badge/LinkedIn/artem-soroka/0A66C2?icon=linkedin)](https://www.linkedin.com/in/artem-soroka/)
